@@ -1,0 +1,1 @@
+export const b = "Hello from B!";

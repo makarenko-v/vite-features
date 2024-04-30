@@ -1,0 +1,1 @@
+export const c = "Hello from C!";
